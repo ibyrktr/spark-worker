@@ -14,8 +14,8 @@
 				<configuration>
 					<images>
 						<image>
-							<name>bayraktar/spark-master</name>
-							<alias>bayraktar/spark-master</alias>
+							<name>bayraktar/spark-worker</name>
+							<alias>bayraktar/spark-worker</alias>
 							<!-- Configure build settings -->
 							<build>
 								<dockerFileDir>${project.basedir}/src/main/resources</dockerFileDir>
